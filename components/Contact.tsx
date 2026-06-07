@@ -252,7 +252,7 @@ export default function Contact() {
             letterSpacing: "0.5px",
           }}
         >
-          © {new Date().getFullYear()} {siteConfig.name} · Built with Next.js
+          © {new Date().getFullYear()} {siteConfig.name} 
         </p>
       </footer>
     </>
